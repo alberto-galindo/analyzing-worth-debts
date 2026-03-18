@@ -54,7 +54,7 @@ The regression analysis confirms a significant discontinuity at the $1000 mark:
 
 | Analysis Window | Estimated Impact (Coefficient) | Incremental Cost | Result |
 | :--- | :--- | :--- | :--- |
-| $900 - $1100 | **~$278\*\* | $50 | ✅ Highly Profitable |
+| $900 - $1100 | **$278\*\* | $50 | ✅ Highly Profitable |
 | $950 - $1050 | **Significant** | $50 | ✅ Highly Profitable |
 
 **Conclusion:** The Level 1 recovery strategy is highly effective. The incremental recovery (approx. $278) far exceeds the $50 cost of implementation.
